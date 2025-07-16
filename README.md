@@ -2,6 +2,7 @@
 Este projeto apresenta um dashboard analítico desenvolvido em Power BI, com o objetivo de fornecer uma visão geral e integrada das vendas, clientes e produtos de uma empresa. O foco está na comparação entre Sales (vendas realizadas) e Budget (meta/orçamento), análise de desempenho por cliente, categoria, produto e região geográfica.
 
 Link para o dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzM1NDU3OGItNTQzNy00NjQwLWE0OTctM2MyOTk4YzA2NWU5IiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9&pageName=ef7c579b92ad6a8bcb10
+
 🔧 Funcionalidades
 1. Customers Overview
 Lista dos 10 principais clientes por volume de vendas.
@@ -13,6 +14,7 @@ Mapa de distribuição de clientes ao redor do mundo.
 Tabela detalhada com as vendas por cliente e mês.
 
 Total de vendas: 22 milhões, próximo da meta orçada: 21,97 milhões.
+
 
 2. Sales Overview
 Comparativo direto entre Sales vs Budget, com destaque do resultado:
@@ -31,6 +33,7 @@ Evolução de vendas por mês.
 
 Mapa com localização geográfica dos clientes.
 
+
 3. Products Overview
 Ranking dos 10 produtos mais vendidos, com destaque para categorias Touring-1000 Yellow, 46 e Touring-1000 Yellow, 46
 
@@ -42,6 +45,7 @@ Total detalhado da categoria Accessories:
 
 Valor total: 700.760, com destaque para produtos como HL Mountain Tire e Fender Set – Mountain.
 
+
 🧠 Insights Rápidos
 O orçamento foi superado em aproximadamente 270 mil.
 
@@ -51,6 +55,7 @@ Clientes como Jordan Turner e Maurice Shan têm papel relevante no desempenho co
 
 A sazonalidade de vendas mostra quedas em Abril e Setembro, com picos em Novembro e Dezembro.
 
+
 📍 Filtros disponíveis
 Ano: 2023, 2024, 2025
 
@@ -59,6 +64,7 @@ Mês: Jan a Dez
 Cidade do Cliente
 
 Categoria / Subcategoria / Produto
+
 
 📦 Ferramentas utilizadas
 Power BI Desktop – construção dos dashboards e visualizações interativas.
