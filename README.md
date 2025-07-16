@@ -42,8 +42,7 @@ Tabela detalhada com as vendas por cliente e mês.
 Total de vendas: 22 milhões, próximo da meta orçada: 21,97 milhões.
 
 
-3.
-Products Overview
+3.Products Overview
 
 <img width="1307" height="732" alt="Image" src="https://github.com/user-attachments/assets/e804a4bb-ea08-4430-b5d8-21e7ba4a1a53" />
 
