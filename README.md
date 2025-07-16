@@ -1,5 +1,6 @@
 📊 Customer, Sales and Product Overview - Power BI Dashboard
 Este projeto apresenta um dashboard analítico desenvolvido em Power BI, com o objetivo de fornecer uma visão geral e integrada das vendas, clientes e produtos de uma empresa. O foco está na comparação entre Sales (vendas realizadas) e Budget (meta/orçamento), análise de desempenho por cliente, categoria, produto e região geográfica.
+
 Link para o dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzM1NDU3OGItNTQzNy00NjQwLWE0OTctM2MyOTk4YzA2NWU5IiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9&pageName=ef7c579b92ad6a8bcb10
 🔧 Funcionalidades
 1. Customers Overview
