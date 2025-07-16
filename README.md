@@ -4,19 +4,13 @@ Este projeto apresenta um dashboard analítico desenvolvido em Power BI, com o o
 Link para o dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzM1NDU3OGItNTQzNy00NjQwLWE0OTctM2MyOTk4YzA2NWU5IiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9&pageName=ef7c579b92ad6a8bcb10
 
 🔧 Funcionalidades
-1. Customers Overview
-Lista dos 10 principais clientes por volume de vendas.
-
-Evolução de vendas por mês.
-
-Mapa de distribuição de clientes ao redor do mundo.
-
-Tabela detalhada com as vendas por cliente e mês.
-
-Total de vendas: 22 milhões, próximo da meta orçada: 21,97 milhões.
 
 
-2. Sales Overview
+1. Sales Overview
+
+<img width="1315" height="750" alt="Image" src="https://github.com/user-attachments/assets/52d4c305-b0a3-4795-951e-33277614bd10" />
+
+
 Comparativo direto entre Sales vs Budget, com destaque do resultado:
 
 Total vendido: 22.239.730
@@ -31,10 +25,28 @@ Ranking dos produtos mais vendidos.
 
 Evolução de vendas por mês.
 
-Mapa com localização geográfica dos clientes.
+Mapa com localização geográfica dos clientes. 
+
+2. Customers Overview
+
+<img width="1305" height="734" alt="Image" src="https://github.com/user-attachments/assets/6ce9f568-b96c-446d-8c32-f3b23a330d5a" />
+
+Lista dos 10 principais clientes por volume de vendas.
+
+Evolução de vendas por mês.
+
+Mapa de distribuição de clientes ao redor do mundo.
+
+Tabela detalhada com as vendas por cliente e mês.
+
+Total de vendas: 22 milhões, próximo da meta orçada: 21,97 milhões.
 
 
-3. Products Overview
+3.
+Products Overview
+
+<img width="1307" height="732" alt="Image" src="https://github.com/user-attachments/assets/e804a4bb-ea08-4430-b5d8-21e7ba4a1a53" />
+
 Ranking dos 10 produtos mais vendidos, com destaque para categorias Touring-1000 Yellow, 46 e Touring-1000 Yellow, 46
 
 Tabela com vendas por produto e por mês.
